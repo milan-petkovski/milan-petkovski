@@ -34,7 +34,7 @@ A web developer and digital marketer from Serbia. I'm passionate about creating 
 <br>
 <!-- Veštine -->
 <table align="center" style="border: none !important;">
-  <tr>
+  <tr style="border: none !important;">
     <td align="center" style="border: none !important;">
       <img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="40" /><br>HTML5
     </td>
