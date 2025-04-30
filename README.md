@@ -1,5 +1,5 @@
 ## Dobro Dosli na profil 👋
-<img src="https://github.com/Milan-petkovski/Milan-petkovski/blob/main/mwp.jpg">
+<img src="https://github.com/Milan-petkovski/Milan-petkovski/blob/main/mwp.png">
 
 <!--
 **Milan-petkovski/Milan-petkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
