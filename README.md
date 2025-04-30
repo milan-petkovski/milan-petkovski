@@ -17,13 +17,13 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <a href="https://milanwebportal.com" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-FFA90A?style=for-the-badge&logo=about.me&logoColor=black">
+            <img src="https://img.shields.io/badge/Website-d3ad7f?style=for-the-badge&logo=about.me&logoColor=black">
         </a>
         <a href="https://instagram.com/milanwebportal" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
         <a href="https://freelancer.com/u/Milan567" target="_blank">
-            <img src="https://img.shields.io/badge/Freelancer-D4AF37?style=for-the-badge&logo=freelancer&logoColor=white">
+            <img src="https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white">
         </a>
     </p>
     <br>
