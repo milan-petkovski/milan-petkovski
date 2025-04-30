@@ -77,7 +77,7 @@
 <br>
 
 ## ⚡️ Stats
-<div align="center" width="100%">
+<div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Milan-petkovski&count_private=true&show_icons=true&theme=radical&hide_rank=true" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Milan-petkovski&theme=radical" />
 </div>
