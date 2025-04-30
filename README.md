@@ -1,34 +1,32 @@
-<a href="https://milanwebportal.com">
-    <img src="https://github.com/Milan-petkovski/Milan-petkovski/blob/main/mwp.png">
-</a>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=5000&lines=Hi+There!+👋;+I'm+Milan+Petkovski!;" />
-</h1>
-
-<h3 align="center">
-A web developer and digital marketer from Serbia. I'm passionate about creating responsive websites and providing digital solutions that help businesses grow online. My focus is on building modern websites, SEO optimization, and digital marketing. With expertise in HTML, CSS, JavaScript, and SEO, I aim to build high-quality projects that are optimized for user experience and performance. Additionally, I work with startups and small businesses, helping them establish their online presence through appealing websites and effective marketing strategies.
-</h3>
-
-<br>
-<p align="center">
-  <a href="mailto:contact@milanwebportal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/milan--petkovski" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://milanwebportal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFA90A?style=for-the-badge&logo=about.me&logoColor=black">
-  </a>
-  <a href="https://instagram.com/milanwebportal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://freelancer.com/u/Milan567" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-D4AF37?style=for-the-badge&logo=freelancer&logoColor=white">
-  </a>
-</p>
-<br>
+<div align="center">
+    <a href="https://milanwebportal.com">
+        <img src="https://github.com/Milan-petkovski/Milan-petkovski/blob/main/mwp.png">
+    </a>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=5000&lines=Hi+There!+👋;+I'm+Milan+Petkovski!;" />
+    </h1>
+    <h3>
+    A web developer and digital marketer from Serbia. I'm passionate about creating responsive websites and providing digital solutions that help businesses grow online. My focus is on building modern websites, SEO optimization, and digital marketing. With expertise in HTML, CSS, JavaScript, and SEO, I aim to build high-quality projects that are optimized for user experience and performance. Additionally, I work with startups and small businesses, helping them establish their online presence through appealing websites and effective marketing strategies.
+    </h3>
+    <br>
+    <p align="center">
+        <a href="mailto:contact@milanwebportal.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        <a href="https://linkedin.com/in/milan--petkovski" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://milanwebportal.com" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-FFA90A?style=for-the-badge&logo=about.me&logoColor=black">
+        </a>
+        <a href="https://instagram.com/milanwebportal" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://freelancer.com/u/Milan567" target="_blank">
+            <img src="https://img.shields.io/badge/Freelancer-D4AF37?style=for-the-badge&logo=freelancer&logoColor=white">
+        </a>
+    </p>
+    <br>
 
 ## 🛠️ Languages and Tools
 <br>
@@ -79,9 +77,9 @@ A web developer and digital marketer from Serbia. I'm passionate about creating 
 <br>
 
 ## ⚡️ Stats
-<div align=center>
-  <img width=325 height=200 src="https://github-readme-stats.vercel.app/api?username=milan-petkovski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&border_radius=10&locale=en"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-petkovski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"/>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Milan-petkovski&count_private=true&show_icons=true&theme=radical&hide_rank=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Milan-petkovski&theme=radical" />
 </div>
 
 <br>
