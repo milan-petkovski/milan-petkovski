@@ -30,22 +30,51 @@
 
 ## 🛠️ Languages and Tools
 <br>
-<p align="center">
-  <!-- Veštine -->
-  <img src="https://img.icons8.com/fluent/48/000000/html-5.png" alt="HTML5" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/css3.png" alt="CSS3" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/javascript.png" alt="JavaScript" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/node-js.png" alt="Node.js" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/sql.png" alt="SQL" width="40" height="40" />
-  <br>
-  <!-- Alati -->
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" />
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio.png" alt="Visual Studio 2022" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server Management Studio" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/render/FFFFFF" alt="Render" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/vercel/808080" alt="Vercel" width="40" height="40" />
-</p>
+<!-- Veštine -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="40" /><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/css3.png" width="40" /><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="40" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/c-sharp-logo.png" width="40" /><br>C#
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="40" /><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/sql.png" width="40" /><br>SQL
+    </td>
+  </tr>
+</table>
+
+<!-- Alati -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" /><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluent/48/000000/visual-studio.png" width="40" /><br>Visual Studio
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="40" /><br>SSMS
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/render/FFFFFF" width="40" /><br>Render
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vercel/808080" width="40" /><br>Vercel
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## ⚡️ Stats
