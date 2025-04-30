@@ -26,7 +26,8 @@
             <img src="https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white">
         </a>
     </p>
-    <br>
+</div>
+<br>
 
 ## 🛠️ Languages and Tools
 <br>
