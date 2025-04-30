@@ -33,45 +33,44 @@ A web developer and digital marketer from Serbia. I'm passionate about creating 
 ## 🛠️ Languages and Tools
 <br>
 <!-- Veštine -->
-<table align="center" style="border: none !important;">
-  <tr style="border: none !important;">
-    <td align="center" style="border: none !important;">
+<table align="center">
+  <tr>
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="40" /><br>HTML5
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/css3.png" width="40" /><br>CSS3
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="40" /><br>JavaScript
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/c-sharp-logo.png" width="40" /><br>C#
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/node-js.png" width="40" /><br>Node.js
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/sql.png" width="40" /><br>SQL
     </td>
   </tr>
 </table>
-
 <!-- Alati -->
-<table align="center" style="border: none !important;">
-  <tr style="border: none !important;">
-    <td align="center" style="border: none !important;">
+<table align="center">
+  <tr>
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" /><br>VS Code
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/fluent/48/000000/visual-studio.png" width="40" /><br>Visual Studio
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="40" /><br>SSMS
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://cdn.simpleicons.org/render/FFFFFF" width="40" /><br>Render
     </td>
-    <td align="center" style="border: none !important;">
+    <td align="center">
       <img src="https://cdn.simpleicons.org/vercel/808080" width="40" /><br>Vercel
     </td>
   </tr>
@@ -81,7 +80,7 @@ A web developer and digital marketer from Serbia. I'm passionate about creating 
 
 ## ⚡️ Stats
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api?username=milan-petkovski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"/>
+  <img width=325 height=200 src="https://github-readme-stats.vercel.app/api?username=milan-petkovski&theme=transparent&count_private=true&show_icons=true&rank_icon=github&border_radius=10&locale=en"/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=milan-petkovski&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en"/>
 </div>
 
