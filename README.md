@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=5000&lines=Hi+There!+👋;+I'm+Milan+Petkovski!;" />
     </h1>
     <h3>
-    A web developer and digital marketer from Serbia. I'm passionate about creating responsive websites and providing digital solutions that help businesses grow online. My focus is on building modern websites, SEO optimization, and digital marketing. With expertise in HTML, CSS, JavaScript, and SEO, I aim to build high-quality projects that are optimized for user experience and performance. Additionally, I work with startups and small businesses, helping them establish their online presence through appealing websites and effective marketing strategies.
+    A web developer and marketing specialist from Serbia. I'm passionate about creating responsive websites and providing digital solutions that help businesses grow online. My focus is on building modern websites, SEO optimization, and digital marketing. With expertise in HTML, CSS, JavaScript, and SEO, I aim to build high-quality projects that are optimized for user experience and performance. Additionally, I work with startups and small businesses, helping them establish their online presence through appealing websites and effective marketing strategies.
     </h3>
     <br>
     <p align="center">
@@ -85,7 +85,7 @@
 
 <br>
 
-## 🐍 My Contributions
+## 🐍 My work
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milan-petkovski/milan-petkovski/output/github-contribution-grid-snake-dark.svg" />
