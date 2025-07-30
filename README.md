@@ -11,22 +11,22 @@
 <h3>Web Developer & Digital Marketing Specialist from Serbia</h3>
 <p>Creating responsive websites | SEO | Digital marketing | Startups & Small Business</p>
 
-<p>
-<a href="mailto:contact@milanwebportal.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/milan---petkovski" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://milanwebportal.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-d3ad7f?style=for-the-badge&logo=about.me&logoColor=black" />
-</a>
-<a href="https://instagram.com/milanwebportal" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://freelancer.com/u/Milan567" target="_blank">
-  <img src="https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:contact@milanwebportal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/milan---petkovski" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/milan567" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/milanwebportal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://streamlabs.com/Milan_567/tip" target="_blank">
+    <img src="https://img.shields.io/badge/Paypal-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
 </p>
 
 </div>
