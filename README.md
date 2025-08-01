@@ -57,7 +57,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="40" /><br>Git</td>
     <td align="center"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="40" /><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /><br>Bootstrap</td>
-    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" /><br>Databases</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" /><br>Figma</td>   
     <td align="center"><img src="https://api.iconify.design/mdi/chart-line.svg" width="40" /><br>SEO</td>
   </tr>
 </table>
