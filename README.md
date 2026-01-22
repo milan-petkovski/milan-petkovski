@@ -91,8 +91,8 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-petkovski&theme=dark&show_icons=true&hide_border=false&layout=compact" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-petkovski&theme=dark&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-petkovski&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=milan-petkovski&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 ---
