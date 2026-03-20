@@ -91,7 +91,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-<img height="160" src="https://milanwebportal.com/.netlify/functions/get-stats" />
+<img height="160" src="https://milanwebportal.com/.netlify/functions/get-stats"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=milan-petkovski&theme=dark&hide_border=true" alt="milan-petkovski streak" />
 </div>
 
