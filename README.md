@@ -31,7 +31,7 @@
 
 <br>
 
-<h1 align="center">O meni 👨‍💻</h1>
+<h1 align="center">👨‍💻 O meni</h1>
 <p align="center">
   Već pola decenije kreiram moderne i optimizovane web sajtove koji pomažu brendovima da privuku klijente i drastično povećaju prodaju. Fokusiran sam na pisanje čistog koda i korišćenje AI alata kako bih maksimalno ubrzao proces rada bez kompromisa u kvalitetu.
   <br><br>
@@ -40,7 +40,7 @@
   
 <br>
 
-<h1 align="center">Moje Usluge 💼</h1>
+<h1 align="center">💼 Moje Usluge</h1>
 <p align="center">Pružam kompletna digitalna rešenja koja vaš biznis podižu na viši nivo i donose konkretne rezultate.</p>
 
 <table align="center">
