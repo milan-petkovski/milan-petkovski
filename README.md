@@ -143,12 +143,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center"><img src="https://i.postimg.cc/PfLjxKc2/website1.jpg" alt="Projekat 1" /></td>
-    <td width="50%" align="center"><img src="https://i.postimg.cc/MTNgV24h/website6.jpg" alt="Projekat 2" /></td>
+    <td width="50%" align="center"><img src="https://i.postimg.cc/HsTr3YQL/website2.jpg" alt="Projekat 1" /></td>
+    <td width="50%" align="center"><img src="https://i.postimg.cc/QxjFS8pV/website20.jpg" alt="Projekat 2" /></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="https://i.postimg.cc/8Cy2krbN/website2.jpg" alt="Projekat 3" /></td>
-    <td width="50%" align="center"><img src="https://i.postimg.cc/bNgNX1Cb/website20.jpg" alt="Projekat 4" /></td>
+    <td width="50%" align="center"><img src="https://i.postimg.cc/8PT7wphj/website21.jpg" alt="Projekat 3" /></td>
+    <td width="50%" align="center"><img src="https://i.postimg.cc/tC9sDqhJ/website6.jpg" alt="Projekat 4" /></td>
   </tr>
 </table>
 
