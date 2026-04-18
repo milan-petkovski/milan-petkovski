@@ -143,12 +143,12 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center"><img src="https://i.ibb.co/Kc4pTp5X/allinone.jpg" alt="Projekat 1" /></td>
-    <td width="50%" align="center"><img src="https://i.ibb.co/sp0fXMBX/sinapis.jpg" alt="Projekat 2" /></td>
+    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website2.jpg" alt="All In One" /></td>
+    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website6.jpg" alt="Sinapis" /></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="https://i.ibb.co/gLG0wXsX/karovic.jpg" alt="Projekat 3" /></td>
-    <td width="50%" align="center"><img src="https://i.ibb.co/p6qmNgsx/tutzshop.jpg" alt="Projekat 4" /></td>
+    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website20.jpg" alt="Karovic" /></td>
+    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website21.jpg" alt="Tutz Shop" /></td>
   </tr>
 </table>
 
