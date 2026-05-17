@@ -1,7 +1,8 @@
 <div align="center">
 
   <a href="https://milanwebportal.com">
-    <img src="https://github.com/milan-petkovski/milan-petkovski/blob/main/mwp.png" width="250" alt="Milan Web Portal Logo" />
+    <img src="https://milanwebportal.com/images/mwp.png" width="200" alt="Milan Web Portal Logo" />
+    <br><br>
   </a>
 
   <h1>
@@ -125,13 +126,35 @@
 
 <br>
 
+<h1 align="center">🏆 Flagship Ekosistemi</h1>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <h2>🧩 All In One Ekstenzija</h2>
-      <p>Besplatan alat koji menja 15+ ekstenzija. Povećaj produktivnost uz integrisane funkcije za dizajn multimediju i brži radni proces.</p>
+    <td width="33.3%" align="center" valign="top">
+      <img src="public/images/Projects/sgeoride.png" alt="GEO Ride Simulator" width="100%" style="border-radius: 8px;" />
+      <h3>🌍 GEO Ride</h3>
+      <p><b>3D Simulation Platform</b></p>
+      <p>Imersivni 3D simulator vožnje u pretraživaču pokretan Mapbox i Three.js tehnologijama uz realnu fiziku drifta i multiplayer.</p>
+      <a href="https://georide.milanwebportal.com" target="_blank">
+        <img src="public/images/Projects/badge_georide.svg" alt="Isprobaj" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <img src="public/images/Projects/sallinone.png" alt="All In One Extension" width="100%" style="border-radius: 8px;" />
+      <h3>🧩 All In One</h3>
+      <p><b>Browser Extension</b></p>
+      <p>Vrhunski produktivni alat koji kombinuje 15+ korisnih funkcija u jedan brz interfejs sa minimalnom potrošnjom memorije.</p>
       <a href="https://allinone.milanwebportal.com" target="_blank">
-        <img src="https://img.shields.io/badge/Saznaj_više-238636?style=for-the-badge" alt="Saznaj više" />
+        <img src="public/images/Projects/badge_allinone.svg" alt="Instaliraj" />
+      </a>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <img src="public/images/Projects/sgymgo.png" alt="GymGO Application" width="100%" style="border-radius: 8px;" />
+      <h3>💪 GymGo</h3>
+      <p><b>Mobile App</b></p>
+      <p>Premium fitnes ekosistem za precizno praćenje treninga i analitiku, izgrađen u React Native i Supabase okruženju.</p>
+      <a href="https://gymgo.milanwebportal.com" target="_blank">
+        <img src="public/images/Projects/badge_gymgo.svg" alt="Saznaj više" />
       </a>
     </td>
   </tr>
@@ -143,12 +166,28 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website2.jpg" alt="All In One" /></td>
-    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website6.jpg" alt="Sinapis" /></td>
+    <td width="50%" align="center">
+      <a href="https://georide.milanwebportal.com" target="_blank">
+        <img src="https://milanwebportal.com/images/Projects/website23.jpg" alt="GEO Ride" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://gymgo.milanwebportal.com" target="_blank">
+        <img src="https://milanwebportal.com/images/Projects/website24.jpg" alt="GymGO" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website20.jpg" alt="Karovic" /></td>
-    <td width="50%" align="center"><img src="https://milanwebportal.com/images/Projects/website21.jpg" alt="Tutz Shop" /></td>
+    <td width="50%" align="center">
+      <a href="https://allinone.milanwebportal.com" target="_blank">
+        <img src="https://milanwebportal.com/images/Projects/website2.jpg" alt="All In One" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://keteringkarovic.rs" target="_blank">
+        <img src="https://milanwebportal.com/images/Projects/website20.jpg" alt="Ketering Karovic" />
+      </a>
+    </td>
   </tr>
 </table>
 
