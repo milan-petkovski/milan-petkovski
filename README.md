@@ -131,30 +131,30 @@
 <table align="center" width="100%">
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="public/images/Projects/sgeoride.png" alt="GEO Ride Simulator" width="100%" style="border-radius: 8px;" />
+      <img src="https://milanwebportal.com/images/Projects/sgeoride.png" alt="GEO Ride Simulator" width="100%" style="border-radius: 8px;" />
       <h3>🌍 GEO Ride</h3>
       <p><b>3D Simulation Platform</b></p>
       <p>Imersivni 3D simulator vožnje u pretraživaču pokretan Mapbox i Three.js tehnologijama uz realnu fiziku drifta i multiplayer.</p>
       <a href="https://georide.milanwebportal.com" target="_blank">
-        <img src="public/images/Projects/badge_georide.svg" alt="Isprobaj" />
+        <img src="https://milanwebportal.com/images/Projects/badge_georide.svg" alt="Isprobaj" />
       </a>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="public/images/Projects/sallinone.png" alt="All In One Extension" width="100%" style="border-radius: 8px;" />
+      <img src="https://milanwebportal.com/images/Projects/sallinone.png" alt="All In One Extension" width="100%" style="border-radius: 8px;" />
       <h3>🧩 All In One</h3>
       <p><b>Browser Extension</b></p>
       <p>Vrhunski produktivni alat koji kombinuje 15+ korisnih funkcija u jedan brz interfejs sa minimalnom potrošnjom memorije.</p>
       <a href="https://allinone.milanwebportal.com" target="_blank">
-        <img src="public/images/Projects/badge_allinone.svg" alt="Instaliraj" />
+        <img src="https://milanwebportal.com/images/Projects/badge_allinone.svg" alt="Instaliraj" />
       </a>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="public/images/Projects/sgymgo.png" alt="GymGO Application" width="100%" style="border-radius: 8px;" />
+      <img src="https://milanwebportal.com/images/Projects/sgymgo.png" alt="GymGO Application" width="100%" style="border-radius: 8px;" />
       <h3>💪 GymGo</h3>
       <p><b>Mobile App</b></p>
       <p>Premium fitnes ekosistem za precizno praćenje treninga i analitiku, izgrađen u React Native i Supabase okruženju.</p>
       <a href="https://gymgo.milanwebportal.com" target="_blank">
-        <img src="public/images/Projects/badge_gymgo.svg" alt="Saznaj više" />
+        <img src="https://milanwebportal.com/images/Projects/badge_gymgo.svg" alt="Saznaj više" />
       </a>
     </td>
   </tr>
