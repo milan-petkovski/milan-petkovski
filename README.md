@@ -221,7 +221,7 @@ Milan:
     <td width="50%" align="center" valign="top">
       <a href="https://originalautodelovi.com"><img src="https://milanwebportal.com/images/Projects/website25.jpg" alt="Original Car Parts" width="100%" style="border-radius: 10px;" /></a>
       <h3>🚗 Original Car Parts</h3>
-      <p>Professional presentation of original auto parts with live Facebook posts and a quick VIN inquiry system.</p>
+      <p>Professional presentation of original car parts with live Facebook posts and a quick VIN inquiry system.</p>
       <a href="https://originalautodelovi.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Original Car Parts" /></a>
     </td>
   </tr>
