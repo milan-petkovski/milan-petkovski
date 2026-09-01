@@ -199,13 +199,13 @@ Milan:
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://tutz.milanwebportal.com"><img src="https://milanwebportal.com/images/Projects/website4.jpg" alt="Tutz" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://tutz.milanwebportal.com"><img src="https://milanwebportal.com/images/Projects/website4.webp" alt="Tutz" width="100%" style="border-radius: 10px;" /></a>
       <h3>🎮 Tutz</h3>
       <p>Official portal of the Tutz brand. Visual identity optimization and operational support for maximum CTR.</p>
       <a href="https://tutz.milanwebportal.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz" /></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://tutzshop.com"><img src="https://milanwebportal.com/images/Projects/website21.jpg" alt="Tutz Shop" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://tutzshop.com"><img src="https://milanwebportal.com/images/Projects/website21.webp" alt="Tutz Shop" width="100%" style="border-radius: 10px;" /></a>
       <h3>🛍️ Tutz Shop</h3>
       <p>Official e-commerce portal for Tutz merch. Custom Shopify solution optimized for sales.</p>
       <a href="https://tutzshop.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz Shop" /></a>
@@ -213,13 +213,13 @@ Milan:
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://keteringkarovic.rs"><img src="https://milanwebportal.com/images/Projects/website20.jpg" alt="Ketering Karović" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://keteringkarovic.rs"><img src="https://milanwebportal.com/images/Projects/website20.webp" alt="Ketering Karović" width="100%" style="border-radius: 10px;" /></a>
       <h3>🍽️ Catering Karović</h3>
       <p>Professional food presentation with on-location gallery and quick online inquiry system.</p>
       <a href="https://keteringkarovic.rs"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Catering Karović" /></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://originalautodelovi.com"><img src="https://milanwebportal.com/images/Projects/website25.jpg" alt="Original Car Parts" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://originalautodelovi.com"><img src="https://milanwebportal.com/images/Projects/website25.webp" alt="Original Car Parts" width="100%" style="border-radius: 10px;" /></a>
       <h3>🚗 Original Car Parts</h3>
       <p>Professional presentation of original car parts with live Facebook posts and a quick VIN inquiry system.</p>
       <a href="https://originalautodelovi.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Original Car Parts" /></a>
