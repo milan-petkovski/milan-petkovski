@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d3ad7f,100:0d0d0d&height=3&width=100%"/>
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 For half a decade I have been creating modern and optimized websites that help brands attract clients and drastically increase sales. I am focused on writing clean code and using AI tools to maximize workflow speed without compromising quality.
 
@@ -154,7 +154,7 @@ Milan:
 <table align="center" width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <img src="https://milanwebportal.com/images/Projects/sallinone.png" alt="All In One" width="100%" style="border-radius: 12px;" />
+      <img src="https://milanwebportal.com/images/Projects/showcase/sallinone.png" alt="All In One" width="100%" style="border-radius: 12px;" />
       <br>
       <h3>🧩 All In One</h3>
       <img src="https://img.shields.io/badge/Chrome_Extension-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
@@ -163,7 +163,7 @@ Milan:
       <a href="https://chromewebstore.google.com/detail/hmkcbieabcldlndhjeemggokhlebjoem"><img src="https://img.shields.io/badge/Install_Now-d3ad7f?style=for-the-badge" alt="Install" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://milanwebportal.com/images/projects/skickall.png" alt="KickALL" width="100%" style="border-radius: 12px;" />
+      <img src="https://milanwebportal.com/images/Projects/showcase/skickall.png" alt="KickALL" width="100%" style="border-radius: 12px;" />
       <br>
       <h3>🎮 KickALL</h3>
       <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
@@ -172,7 +172,7 @@ Milan:
       <a href="https://kickall.app"><img src="https://img.shields.io/badge/Register_Now-d3ad7f?style=for-the-badge" alt="Register" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://milanwebportal.com/images/Projects/sgeoride.png" alt="GEO Ride" width="100%" style="border-radius: 12px;" />
+      <img src="https://milanwebportal.com/images/Projects/showcase/sgeoride.png" alt="GEO Ride" width="100%" style="border-radius: 12px;" />
       <br>
       <h3>🌍 GEO Ride</h3>
       <img src="https://img.shields.io/badge/Mapbox-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
@@ -181,7 +181,7 @@ Milan:
       <a href="https://georide.milanwebportal.com"><img src="https://img.shields.io/badge/Play_Now-d3ad7f?style=for-the-badge" alt="Try it out" /></a>
     </td>
     <td width="25%" align="center" valign="top">
-      <img src="https://milanwebportal.com/images/Projects/sgymgo.png" alt="GymGO" width="100%" style="border-radius: 12px;" />
+      <img src="https://milanwebportal.com/images/Projects/showcase/sgymgo.png" alt="GymGO" width="100%" style="border-radius: 12px;" />
       <br>
       <h3>💪 GymGO</h3>
       <img src="https://img.shields.io/badge/React_Native-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
@@ -199,30 +199,30 @@ Milan:
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://tutz.milanwebportal.com"><img src="https://milanwebportal.com/images/Projects/website4.webp" alt="Tutz" width="100%" style="border-radius: 10px;" /></a>
-      <h3>🎮 Tutz</h3>
-      <p>Official portal of the Tutz brand. Visual identity optimization and operational support for maximum CTR.</p>
-      <a href="https://tutz.milanwebportal.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz" /></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://tutzshop.com"><img src="https://milanwebportal.com/images/Projects/website21.webp" alt="Tutz Shop" width="100%" style="border-radius: 10px;" /></a>
-      <h3>🛍️ Tutz Shop</h3>
-      <p>Official e-commerce portal for Tutz merch. Custom Shopify solution optimized for sales.</p>
-      <a href="https://tutzshop.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz Shop" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://keteringkarovic.rs"><img src="https://milanwebportal.com/images/Projects/website20.webp" alt="Ketering Karović" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://keteringkarovic.rs"><img src="https://milanwebportal.com/images/Projects/ketering.webp" alt="Ketering Karović" width="100%" style="border-radius: 10px;" /></a>
       <h3>🍽️ Catering Karović</h3>
       <p>Professional food presentation with on-location gallery and quick online inquiry system.</p>
       <a href="https://keteringkarovic.rs"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Catering Karović" /></a>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://originalautodelovi.com"><img src="https://milanwebportal.com/images/Projects/website25.webp" alt="Original Car Parts" width="100%" style="border-radius: 10px;" /></a>
+      <a href="https://getugrow.com"><img src="https://milanwebportal.com/images/Projects/ugrow.webp" alt="UGROW" width="100%" style="border-radius: 10px;" /></a>
+      <h3>📈 UGROW</h3>
+      <p>High-converting landing page for a leading email marketing agency with interactive animations and audit booking.</p>
+      <a href="https://getugrow.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit UGROW" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://originalautodelovi.com"><img src="https://milanwebportal.com/images/Projects/originalauto.webp" alt="Original Car Parts" width="100%" style="border-radius: 10px;" /></a>
       <h3>🚗 Original Car Parts</h3>
       <p>Professional presentation of original car parts with live Facebook posts and a quick VIN inquiry system.</p>
       <a href="https://originalautodelovi.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Original Car Parts" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://tutzshop.com"><img src="https://milanwebportal.com/images/Projects/tutzshop.webp" alt="Tutz Shop" width="100%" style="border-radius: 10px;" /></a>
+      <h3>🛍️ Tutz Shop</h3>
+      <p>Official e-commerce portal for Tutz merch. Custom Shopify solution optimized for sales.</p>
+      <a href="https://tutzshop.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz Shop" /></a>
     </td>
   </tr>
 </table>
