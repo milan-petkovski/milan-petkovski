@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d3ad7f,100:0d0d0d&height=3&width=100%"/>
 
-## 👨💻 About Me
+## 👨 About Me
 
 For half a decade I have been creating modern and optimized websites that help brands attract clients and drastically increase sales. I am focused on writing clean code and using AI tools to maximize workflow speed without compromising quality.
 
