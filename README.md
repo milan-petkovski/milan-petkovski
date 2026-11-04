@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d3ad7f,100:0d0d0d&height=3&width=100%"/>
 
-## 👨 About Me
+## 👨‍💻 About Me
 
 For half a decade I have been creating modern and optimized websites that help brands attract clients and drastically increase sales. I am focused on writing clean code and using AI tools to maximize workflow speed without compromising quality.
 
@@ -178,7 +178,7 @@ Milan:
       <img src="https://img.shields.io/badge/Mapbox-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
       <img src="https://img.shields.io/badge/Three.js-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
       <p>Immersive browser-based simulator powered by Mapbox and Three.js with real physics.</p>
-      <a href="https://georide.milanwebportal.com"><img src="https://img.shields.io/badge/Play_Now-d3ad7f?style=for-the-badge" alt="Try it out" /></a>
+      <a href="https://playgeoride.com"><img src="https://img.shields.io/badge/Play_Now-d3ad7f?style=for-the-badge" alt="Try it out" /></a>
     </td>
     <td width="25%" align="center" valign="top">
       <img src="https://milanwebportal.com/images/Projects/showcase/sgymgo.png" alt="GymGO" width="100%" style="border-radius: 12px;" />
