@@ -53,14 +53,14 @@ Milan:
       <p>From business presentations to complex stores with databases. I create architecture that automates your sales and scales the business on all devices.</p>
     </td>
     <td width="50%">
-      <h3>🔍 SEO Optimization</h3>
-      <p>I position your business at the very top of Google search, ensuring clients find you before your competition, exactly when they are ready to buy.</p>
+      <h3>🔍 SEO & AI Optimization</h3>
+      <p>Technical SEO, On-page optimization, Schema.org structured data, and GEO content readiness so Google and AI search engines accurately understand and surface your business.</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>📍 Google My Business</h3>
-      <p>I maximize your visibility on Google Maps, making your business the first and most reliable choice for clients in your city.</p>
+      <p>Complete Google Business Profile setup and optimization: accurate categories, services, products, and local SEO signals to improve visibility on Google Maps.</p>
     </td>
     <td>
       <h3>📈 Google Analytics</h3>
@@ -74,7 +74,7 @@ Milan:
     </td>
     <td>
       <h3>🚀 Advanced Maintenance</h3>
-      <p>A strategic partnership that includes constant optimization, deep analysis, and priority support for businesses that want to dominate the market without downtime.</p>
+      <p>Priority technical support, ongoing performance optimization, security monitoring, and monthly updates for active business websites and online stores.</p>
     </td>
   </tr>
 </table>
@@ -186,7 +186,7 @@ Milan:
       <h3>💪 GymGO</h3>
       <img src="https://img.shields.io/badge/React_Native-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
       <img src="https://img.shields.io/badge/Coming_Soon-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a" />
-      <p>The website is already live and looking brutal, and the full mobile app is next.</p>
+      <p>The web platform is live, and the full React Native mobile app is currently in active development.</p>
       <a href="https://gymgo.milanwebportal.com"><img src="https://img.shields.io/badge/Learn_More-d3ad7f?style=for-the-badge" alt="Learn more" /></a>
     </td>
   </tr>
@@ -221,7 +221,7 @@ Milan:
     <td width="50%" align="center" valign="top">
       <a href="https://tutzshop.com"><img src="https://milanwebportal.com/images/Projects/tutzshop.webp" alt="Tutz Shop" width="100%" style="border-radius: 10px;" /></a>
       <h3>🛍️ Tutz Shop</h3>
-      <p>Official e-commerce portal for Tutz merch. Custom Shopify solution optimized for sales.</p>
+      <p>Official e-commerce portal for Tutz merch. Custom high-speed storefront built from scratch for conversions.</p>
       <a href="https://tutzshop.com"><img src="https://img.shields.io/badge/Visit_Site-d3ad7f?style=for-the-badge&logoColor=white" alt="Visit Tutz Shop" /></a>
     </td>
   </tr>
