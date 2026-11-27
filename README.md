@@ -7,11 +7,11 @@
 <br>
 
 <p>
-  <a href="https://milanwebportal.com"><img src="https://img.shields.io/badge/🏠_Home-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
-  <a href="https://milanwebportal.com/projects"><img src="https://img.shields.io/badge/🗂️_Portfolio-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
-  <a href="https://milanwebportal.com/workflow"><img src="https://img.shields.io/badge/⚙️_Workflow-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
-  <a href="https://milanwebportal.com/procena"><img src="https://img.shields.io/badge/📋_Free_Assessment-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
-  <a href="https://milanwebportal.com/linktree"><img src="https://img.shields.io/badge/🔗_All_Links-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://milanwebportal.com/?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/🏠_Home-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://milanwebportal.com/projects?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/🗂️_Portfolio-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://milanwebportal.com/workflow?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/⚙️_Workflow-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://milanwebportal.com/procena?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/📋_Free_Assessment-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://milanwebportal.com/linktree?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/🔗_All_Links-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /></a>
 </p>
 
 <p>
@@ -27,18 +27,18 @@
 
 ## 👨‍💻 About Me
 
-For half a decade I have been creating modern and optimized websites that help brands attract clients and drastically increase sales. I am focused on writing clean code and using AI tools to maximize workflow speed without compromising quality.
+For over 5 years I have been building modern, high-speed websites and digital products that help brands grow their online presence and generate more client inquiries. I focus on clean code, mobile performance, and AI-assisted workflows to ship production-grade software without sacrificing quality.
 
-As a student at **Metropolitan University**, I combine academic knowledge with practical experience in website creation, social media management, and digital content design. I am the author of the **All In One** extension that integrates over 15 different tools into one, optimizing the workflow for hundreds of users.
+As an Information Technology student at **Metropolitan University**, I combine solid computer science foundations with hands-on product delivery across web platforms, mobile apps, and 3D WebGL experiences. I am also the creator of the **All In One** Chrome extension, packing 15+ productivity tools into one lightweight interface.
 
 ```yaml
 Milan:
-  role: "Full-Stack Web Developer & UI/UX Designer"
+  role: "Full-Stack Developer & Founder"
   company: "Milan Web Portal"
   based_in: "Belgrade, Serbia"
-  education: "IT student @Metropolitan University"
-  focus: [Web Development, SEO, UI/UX Design, Digital Marketing]
-  currently_building: "KickALL, a Kick.com streaming ecosystem"
+  education: "IT Student @Metropolitan University"
+  focus: [Web Development, React Native, 3D WebGL, Technical SEO & AI]
+  currently_building: "GEO Ride (3D WebGL) & GymGO (React Native)"
   reach_me: "contact@milanwebportal.com"
 ```
 
@@ -50,7 +50,7 @@ Milan:
   <tr>
     <td width="50%">
       <h3>🌐 Website Development</h3>
-      <p>From business presentations to complex stores with databases. I create architecture that automates your sales and scales the business on all devices.</p>
+      <p>Fast, responsive custom websites and online stores built in clean code without bloated templates, structured to clearly present your offer and capture inquiries on every device.</p>
     </td>
     <td width="50%">
       <h3>🔍 SEO & AI Optimization</h3>
@@ -63,14 +63,14 @@ Milan:
       <p>Complete Google Business Profile setup and optimization: accurate categories, services, products, and local SEO signals to improve visibility on Google Maps.</p>
     </td>
     <td>
-      <h3>📈 Google Analytics</h3>
-      <p>I turn cold data into a clear growth strategy, tracking every click and user step so you know exactly where and how to invest for the highest return.</p>
+      <h3>📈 Google Analytics & Tracking</h3>
+      <p>Setup of Google Analytics 4, Search Console, and conversion tracking (forms, calls, clicks) so you have clear visibility into where visitors come from and which campaigns perform.</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>🛠️ Basic Maintenance</h3>
-      <p>I take complete care of the technical correctness, security, and fast updates of your website, so you can smoothly run your business.</p>
+      <p>Routine technical checks, automated security backups, updates, and monthly small edits to keep your website fast, secure, and reliable.</p>
     </td>
     <td>
       <h3>🚀 Advanced Maintenance</h3>
@@ -80,7 +80,7 @@ Milan:
 </table>
 
 <div align="center">
-  <a href="https://milanwebportal.com/procena"><img src="https://img.shields.io/badge/Send_Inquiry-d3ad7f?style=for-the-badge" /></a>
+  <a href="https://milanwebportal.com/procena?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/Send_Inquiry-d3ad7f?style=for-the-badge" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d3ad7f,100:0d0d0d&height=3&width=100%"/>
@@ -90,13 +90,16 @@ Milan:
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🌐 Frontend</h3>
+      <h3>🌐 Frontend & Mobile</h3>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     </td>
     <td width="50%" align="center">
@@ -105,8 +108,8 @@ Milan:
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-252525?style=for-the-badge&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -124,9 +127,11 @@ Milan:
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -137,11 +142,11 @@ Milan:
 
 <div align="center">
 
-<a href="https://milanwebportal.com"><img src="https://milanwebportal.com/images/mwp.png" width="200" alt="Milan Web Portal" /></a>
+<a href="https://milanwebportal.com/?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://milanwebportal.com/images/mwp.png" width="200" alt="Milan Web Portal" /></a>
 
 <p><b>Milan Web Portal</b>, founded and led by me. Every product on this profile was designed, built, and shipped under it.</p>
 
-<a href="https://milanwebportal.com"><img src="https://img.shields.io/badge/Visit_the_company-d3ad7f?style=for-the-badge" alt="Visit Milan Web Portal" /></a>
+<a href="https://milanwebportal.com/?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/Visit_the_company-d3ad7f?style=for-the-badge" alt="Visit Milan Web Portal" /></a>
 
 </div>
 
@@ -228,7 +233,7 @@ Milan:
 </table>
 
 <div align="center">
-  <a href="https://milanwebportal.com/projects"><img src="https://img.shields.io/badge/View_full_portfolio_→-d3ad7f?style=for-the-badge" alt="Explore all projects" /></a>
+  <a href="https://milanwebportal.com/projects?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/View_full_portfolio_→-d3ad7f?style=for-the-badge" alt="Explore all projects" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d3ad7f,100:0d0d0d&height=3&width=100%"/>
@@ -254,7 +259,7 @@ Milan:
 <br>
 
 <div align="center">
-  <a href="https://milanwebportal.com/procena"><img src="https://img.shields.io/badge/Let's_build_something_great-d3ad7f?style=for-the-badge" alt="Get in touch" /></a>
+  <a href="https://milanwebportal.com/procena?utm_source=github&utm_medium=social&utm_campaign=readme"><img src="https://img.shields.io/badge/Let's_build_something_great-d3ad7f?style=for-the-badge" alt="Get in touch" /></a>
   <br><br>
   <i>🚀 From the first idea to the last pixel, built by Milan Petkovski</i>
 </div>
